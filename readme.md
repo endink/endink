@@ -6,3 +6,4 @@
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/csharp.svg" /></code>
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/kotlin.svg" /></code>
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/typescript.svg" /></code>
+<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/go.svg" /></code>
