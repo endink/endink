@@ -7,6 +7,7 @@
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/kotlin.svg" /></code>
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/typescript.svg" /></code>
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/go.svg" /></code>
+<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" /></code>
 
 [//]: # (### [设计器即服务（Designer As A Service&#41;]&#40;https://github.com/endink/daas&#41;)
 
